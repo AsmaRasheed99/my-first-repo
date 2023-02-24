@@ -12,4 +12,8 @@ Cats          | Hot Weather
 Physics       | Insects
 
 ### Contact Info :
-* https://www.facebook.com/asmaatiliy
+* Facebook : https://www.facebook.com/asmaatiliy
+* Github : https://github.com/AsmaRasheed99
+* Linkedin : https://www.linkedin.com/in/asma-rasheed-18b441267/
+* Email : Asmarasheed4599@gmail.com
+* Phone Number : 0795208162
