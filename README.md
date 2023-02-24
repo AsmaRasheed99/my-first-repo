@@ -1,7 +1,9 @@
 # my-first-repo
 ### This is an introduction
-**Name :** *Asma Rasheed*
+**Name :** *Asma Rasheed* 
+
 **Age :** *23*
+
 **Major :** *Physics*
 Things I like | Things I dislike
 ------------- | ----------------
