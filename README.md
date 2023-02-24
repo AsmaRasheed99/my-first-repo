@@ -13,8 +13,7 @@ Physics       | Insects
 Food          | Milk
 ##### My favorite quote 
 As Kim Seokjin said :
-> When something is delicious
-> It's zero calories
+> When something is delicious. It's zero calories.
 
 
 ### Contact Info :
