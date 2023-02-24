@@ -17,7 +17,6 @@ As Kim Seokjin said :
 
 
 ### Contact Info :
-* Facebook : https://www.facebook.com/asmaatiliy
 * Github : https://github.com/AsmaRasheed99
 * Linkedin : https://www.linkedin.com/in/asma-rasheed-18b441267/
 * Email : Asmarasheed4599@gmail.com
