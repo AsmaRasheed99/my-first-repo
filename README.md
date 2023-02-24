@@ -6,9 +6,7 @@
 Things I like | Things I dislike
 ------------- | ----------------
 Technology    | Big Crowds
-----------    | -----------
 Cats          | Hot Weather
-----          | -----------
 Physics       | Insects
 
 
